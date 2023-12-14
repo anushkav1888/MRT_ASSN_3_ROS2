@@ -1,0 +1,4 @@
+[console_scripts]
+pub = package.pub:main
+sub = package.sub:main
+
